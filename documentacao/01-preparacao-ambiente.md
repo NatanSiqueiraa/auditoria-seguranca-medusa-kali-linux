@@ -14,8 +14,8 @@ Os resultados encontrados foram:
 
 | Máquina virtual | Sistema operacional | Endereço IP |
 |---|---|---|
-| Máquina de auditoria | Kali Linux | 192.168.56.101 |
-| Máquina vulnerável | Metasploitable 2 | 192.168.56.102 |
+| Máquina de auditoria | Kali Linux | 192.168.56.102 |
+| Máquina vulnerável | Metasploitable 2 | 192.168.56.101 |
 
 ### 1.2. Validação da comunicação
 
